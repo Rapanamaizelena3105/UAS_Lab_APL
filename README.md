@@ -1,7 +1,10 @@
 # UAS_Lab_APL
 Nama : Rapana Maizelena
+
 NPM  : 1908107010003
+
 MK   : APL
+
 Kelas: A
 
 Studi Kasus : Rain
